@@ -11,7 +11,6 @@ import cool_new as cc
 import psychro as psy
 import pandas as pd
 
-#ASK CHAT gpt what is it happening here ?????
 
 plt.rcParams["figure.figsize"] = (10, 7.7)
 font = {'size': 16}
